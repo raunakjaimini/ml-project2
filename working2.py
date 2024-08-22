@@ -58,7 +58,8 @@ st.markdown("""
             text-align: right;
         }
         .assistant {
-            background-color: darkgrey;
+            background-color: lightgrey;
+
             color: #ffffff;
         }
     </style>
