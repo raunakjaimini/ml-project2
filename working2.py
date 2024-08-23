@@ -16,7 +16,7 @@ from langchain.callbacks import StreamlitCallbackHandler
 load_dotenv()
 
 # Setting up the page configuration with title and icon
-st.set_page_config(page_title="ML Project", page_icon="✨")
+st.set_page_config(page_title="ML Project 1.0", page_icon="✨")
 
 # Custom CSS for modern design
 st.markdown("""
